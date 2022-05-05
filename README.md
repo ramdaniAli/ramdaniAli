@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Ali
-![](https://drive.google.com/file/d/1_Gs2aij7QfGyo2O8ddkTVjXbM8xVfIJT/view?usp=sharing)
+![](https://github.com/ramdaniAli/ramdaniAli/blob/main/Purple%20and%20Blue%20Marketing%20Head%20Business%20Card.png)
 
 I am a web developer with expertise in front-end development and exposure to back-end development. I design and develop web applications using the latest technologies to deliver the product with quality modular code.
 
