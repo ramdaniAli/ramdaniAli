@@ -18,8 +18,6 @@
 </div>
 
 <p align="center">
-     [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.linkedin.com/in/ali-ramdani-894445152/)
-
 ![Profile views](https://gpvc.arturio.dev/ramdaniAli)      
 </p>
 
