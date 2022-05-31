@@ -5,17 +5,17 @@
 
 <div>
  
-<h1 align="center" >Hi there 👋, my name is Ali</h1> 
- 
- <p align="center" >
- I am a web developer with expertise in front-end development and exposure to back-end development. I design and develop web applications using the latest technologies to deliver the product with quality modular code.
+ <h1 align="center" >Hi there 👋, my name is Ali</h1> 
+
+  <p align="center" >
+  I am a web developer with expertise in front-end development and exposure to back-end development. I design and develop web applications using the latest technologies to deliver the product with quality modular code.
+  </p>
+
+ <p align="center">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=react,redux,js,jest,nextjs,gatsby,webpack,materialui,bootstrap,html,css,sass,git,docker,netlify,nginx,nodejs,express,firebase,mysql,py,unreal,arduino,figma,vscode" />
+   </a>
  </p>
- 
-<p align="center">
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,js,jest,nextjs,gatsby,webpack,materialui,bootstrap,html,css,sass,git,docker,netlify,nginx,nodejs,express,firebase,mysql,py,unreal,arduino,figma,vscode" />
-  </a>
-</p>
  
 </div>
 
@@ -24,9 +24,10 @@
 ## 📊 Github stats
 
 <details> 
+ 
  <summary>💻 GitHub Profile trophies</summary>
  
-![trophy](https://github-profile-trophy.vercel.app/?username=ramdaniAli)(https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=ramdaniAli&theme=onestar)(https://github.com/ryo-ma/github-profile-trophy)
  
 </details> 
 
