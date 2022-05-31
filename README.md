@@ -2,7 +2,8 @@
 ![](https://github.com/ramdaniAli/ramdaniAli/blob/main/ContactMe%20email%3Dzeali.ramdani%40gmail.com%20discord%3DAL%238446%20github%3DramdaniAli%20.png)
 
 
-[![github](https://img.shields.io/badge/rzashakeri-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramdaniAli/)
+[![github](https://img.shields.io/badge/ramdaniAli-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramdaniAli/)
+
 ![](https://komarev.com/ghpvc/?username=ramdaniAli&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 
 <div>
