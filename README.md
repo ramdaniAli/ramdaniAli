@@ -1,6 +1,10 @@
 
 ![](https://github.com/ramdaniAli/ramdaniAli/blob/main/ContactMe%20email%3Dzeali.ramdani%40gmail.com%20discord%3DAL%238446%20github%3DramdaniAli%20.png)
 
+
+[![github](https://img.shields.io/badge/rzashakeri-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rzashakeri/)
+![](https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
+
 <div>
  
 <h1 align="center" >Hi there 👋, my name is Ali</h1> 
