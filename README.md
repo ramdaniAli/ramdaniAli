@@ -35,7 +35,8 @@
  
  <summary>💻 GitHub Profile langs</summary>
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdaniAli)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdaniAli&layout=compact&langs_count=50)
+ 
 </details> 
 
 
