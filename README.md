@@ -1,9 +1,9 @@
 
 ![](https://github.com/ramdaniAli/ramdaniAli/blob/main/ContactMe%20email%3Dzeali.ramdani%40gmail.com%20discord%3DAL%238446%20github%3DramdaniAli%20.png)
 
-<div  style="text-align:center;">
-<h1>Hi there 👋, my name is Ali</h1> 
- <p>
+<div  style="display : flex; justify-content : center; align-items: center;">
+<h1  style="text-align:center;" >Hi there 👋, my name is Ali</h1> 
+ <p  style="text-align:center;" >
  I am a web developer with expertise in front-end development and exposure to back-end development. I design and develop web applications using the latest technologies to deliver the product with quality modular code.
  </p>
 </div>
