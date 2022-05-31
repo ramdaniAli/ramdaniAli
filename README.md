@@ -27,8 +27,7 @@
  
  <summary>💻 GitHub Profile trophies</summary>
  
-![trophy](https://github-profile-trophy.vercel.app/?username=ramdaniAli&theme=onestar)(https://github.com/ryo-ma/github-profile-trophy)
- 
+![trophy](https://github-profile-trophy.vercel.app/?username=ramdaniAli&theme=onestar)
 </details> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdaniAli)](https://github.com/anuraghazra/github-readme-stats)
