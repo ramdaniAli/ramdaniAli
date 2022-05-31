@@ -28,7 +28,7 @@
  
  <summary>💻 GitHub Profile stats</summary>
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ramdaniAli&show_icons=true&count_private=true&theme=onestar)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ramdaniAli&show_icons=true&count_private=true&theme=aura)  
  
 </details> 
 
@@ -45,7 +45,7 @@
  
  <summary>💻 GitHub Profile langs</summary>
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdaniAli&langs_count=50&theme=onestar)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdaniAli&langs_count=50&theme=aura)
  
 </details> 
 
