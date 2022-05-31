@@ -9,7 +9,13 @@ Skills: REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ramdaniAli)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ali-ramdani-894445152/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aliactivity/)  
 
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/ramdaniAli/ama)
+
 ![Profile views](https://gpvc.arturio.dev/ramdaniAli) 
+
+[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=ramdaniAli/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ramdaniAli/badges)
+
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ramdaniAli&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ramdaniAli)](https://github.com/ryo-ma/github-profile-trophy)
 
