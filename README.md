@@ -21,6 +21,8 @@ Skills: REACT / JS / HTML / CSS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ramdaniAli)  
 
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
 ![GitHub metrics](https://metrics.lecoq.io/ramdaniAli)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ramdaniAli)  
