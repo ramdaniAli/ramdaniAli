@@ -35,7 +35,7 @@
  
  <summary>💻 GitHub Profile langs</summary>
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdaniAli&langs_count=50)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdaniAli&langs_count=50&theme=tokyonight)
  
 </details> 
 
