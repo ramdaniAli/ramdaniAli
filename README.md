@@ -53,12 +53,12 @@
  
  <summary>💻 GitHub Profile metrics</summary>
  
-![GitHub metrics](https://metrics.lecoq.io/ramdaniAli)  
+![Metrics](https://metrics.lecoq.io/ramdaniAli?template=classic&isocalendar=1&languages=1&topics=1&stars=1&stargazers=1&projects=1&achievements=1&traffic=1&calendar=1&skyline=1&base.indepth=false&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&topics.mode=starred&topics.sort=stars&topics.limit=15&stars.limit=4&stargazers.charts.type=classic&projects.limit=4&projects.descriptions=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&calendar.limit=2&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=true&config.timezone=Africa%2FLagos)
  
 </details> 
 
 
-![Metrics](https://metrics.lecoq.io/ramdaniAli?template=classic&isocalendar=1&languages=1&topics=1&stars=1&stargazers=1&projects=1&achievements=1&traffic=1&calendar=1&skyline=1&base.indepth=false&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&topics.mode=starred&topics.sort=stars&topics.limit=15&stars.limit=4&stargazers.charts.type=classic&projects.limit=4&projects.descriptions=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&calendar.limit=2&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=true&config.timezone=Africa%2FLagos)
+
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ramdaniAli)  
