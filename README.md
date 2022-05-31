@@ -1,7 +1,12 @@
-### Hi there 👋, my name is Ali
+
 ![](https://github.com/ramdaniAli/ramdaniAli/blob/main/ContactMe%20email%3Dzeali.ramdani%40gmail.com%20discord%3DAL%238446%20github%3DramdaniAli%20.png)
 
-I am a web developer with expertise in front-end development and exposure to back-end development. I design and develop web applications using the latest technologies to deliver the product with quality modular code.
+<div  style="text-align:center;">
+<h1>Hi there 👋, my name is Ali</h1> 
+ <p>
+ I am a web developer with expertise in front-end development and exposure to back-end development. I design and develop web applications using the latest technologies to deliver the product with quality modular code.
+ </p>
+</div>
 
 Skills: REACT / JS / HTML / CSS
 
