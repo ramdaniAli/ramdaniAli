@@ -30,7 +30,16 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=ramdaniAli&theme=onestar)
 </details> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdaniAli)](https://github.com/anuraghazra/github-readme-stats)
+
+<details> 
+ 
+ <summary>💻 GitHub Profile langs</summary>
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdaniAli)
+</details> 
+
+
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ramdaniAli&show_icons=true&count_private=true)  
 
