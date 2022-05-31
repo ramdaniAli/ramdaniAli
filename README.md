@@ -12,11 +12,7 @@ Skills: REACT / JS / HTML / CSS
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/ramdaniAli/ama)
 
 ![Profile views](https://gpvc.arturio.dev/ramdaniAli) 
-
-[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=ramdaniAli/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ramdaniAli/badges)
-
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ramdaniAli&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
+ 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ramdaniAli)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdaniAli)](https://github.com/anuraghazra/github-readme-stats)
