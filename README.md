@@ -34,6 +34,15 @@
 
 <details> 
  
+ <summary>💻 GitHub Profile streak stats</summary>
+ 
+ ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ramdaniAli)  
+
+</details> 
+
+
+<details> 
+ 
  <summary>💻 GitHub Profile trophies</summary>
  
 ![trophy](https://github-profile-trophy.vercel.app/?username=ramdaniAli&theme=onestar)
@@ -59,13 +68,18 @@
 </details> 
 
 
-
-
-
+<details> 
+ 
+ <summary>💻 GitHub Profile Activity Graph</summary>
+ 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ramdaniAli)  
 
-
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ramdaniAli)  
-
  
+</details> 
+
+
+
+
+
+
+
