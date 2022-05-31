@@ -17,10 +17,6 @@
  
 </div>
 
-<p align="center">
-![Profile views](https://gpvc.arturio.dev/ramdaniAli)      
-</p>
-
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=ramdaniAli)](https://github.com/ryo-ma/github-profile-trophy)
 
