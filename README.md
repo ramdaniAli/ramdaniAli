@@ -9,6 +9,7 @@ Skills: REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ramdaniAli)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ali-ramdani-894445152/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aliactivity/)  
 
+![Profile views](https://gpvc.arturio.dev/ramdaniAli) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ramdaniAli)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -22,4 +23,4 @@ Skills: REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ramdaniAli)  
 
-![Profile views](https://gpvc.arturio.dev/ramdaniAli)  
+ 
